@@ -1976,6 +1976,9 @@
 .item-service {
 	min-height: initial;
 }
+.billbord .form-line .item-form {
+	display: none;
+}
 }
 
 /* Extra Small Devices, Phones */
@@ -1987,9 +1990,6 @@
 	.billbord .btn-main {
 		font-size: 15px;
 		max-width: 50%;
-	}
-	.billbord .form-line .item-form {
-		display: none;
 	}
 	.title-section {
 		font-size: 20px;
