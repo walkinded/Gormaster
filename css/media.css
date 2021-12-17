@@ -1947,10 +1947,10 @@
 	left: -10px;
 }
 .billbord .btn-main {
-		/* background-color: #18d15c; */
+		background-color: #18d15c;
 }
 .billbord .btn-main:hover {
-		/* background-color: #0eae49; */
+		background-color: #0eae49;
 }
 .master__center {
 	position: static;
@@ -1978,6 +1978,12 @@
 }
 .billbord .form-line .item-form {
 	display: none;
+}
+.billbord button.btn-main {
+	display: none;
+}
+.billbord a.btn-main {
+	display: inline-flex;
 }
 }
 

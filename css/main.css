@@ -415,6 +415,9 @@ select {
 .billbord .btn-main {
 	font-size: 20px;
 }
+.billbord a.btn-main {
+	display: none;
+}
 .form-line .item-form {
 	margin-right: -10px;
 	flex: 1;
