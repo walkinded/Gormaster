@@ -1601,6 +1601,9 @@ select {
 .menu-dropdown > ul > li {
 	margin: 0;
 }
+.menu-dropdown__haschild {
+	font-weight: 500;
+}
 .menu-dropdown li.menu-dropdown__haschild::after {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
